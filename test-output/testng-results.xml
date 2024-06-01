@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T14:51:53 IST" name="Default suite" finished-at="2024-04-02T14:52:10 IST" duration-ms="16765">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T14:51:53 IST" name="Default test" finished-at="2024-04-02T14:52:10 IST" duration-ms="16765">
+      <class name="test.FakerDataLibraryExample">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:test.FakerDataLibraryExample@6f53b8a]" started-at="2024-04-02T14:51:53 IST" name="initialize" finished-at="2024-04-02T14:51:58 IST" duration-ms="5217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="setPrerequisite()[pri:0, instance:test.FakerDataLibraryExample@6f53b8a]" started-at="2024-04-02T14:51:58 IST" name="setPrerequisite" finished-at="2024-04-02T14:52:09 IST" duration-ms="10844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPrerequisite -->
+        <test-method signature="test_verification()[pri:1, instance:test.FakerDataLibraryExample@6f53b8a]" started-at="2024-04-02T14:52:09 IST" name="test_verification" finished-at="2024-04-02T14:52:09 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_verification -->
+        <test-method is-config="true" signature="testWrite()[pri:0, instance:test.FakerDataLibraryExample@6f53b8a]" started-at="2024-04-02T14:52:09 IST" name="testWrite" finished-at="2024-04-02T14:52:10 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWrite -->
+      </class> <!-- test.FakerDataLibraryExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
